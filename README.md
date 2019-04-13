@@ -1,2 +1,5 @@
 # Guidelines
-My notes and tips
+
+*My notes and tips*
+
+### Check out the WIKI page
